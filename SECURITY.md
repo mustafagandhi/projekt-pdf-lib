@@ -6,9 +6,9 @@ The library is at version 0.1.0, the table will reflect this version and it's cu
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.x.x   | :white_check_mark: | #June 2024
-| 1.x.x   | :x:                | #December 2023
-| 0.x.x   | :x:                | #October 2023
+| 2.x.x   | :white_check_mark: | June 2024
+| 1.x.x   | :x:                | December 2023
+| 0.x.x   | :x:                | October 2023
 
 Note: As more versions of the library are released, this table will be updated to indicate which versions are actively receiving security updates.
 

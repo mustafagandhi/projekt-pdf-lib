@@ -41,6 +41,6 @@ If you find any bugs, have suggestions, or need assistance, please open an issue
 
 ---
 
-Navigate through the documentation using the links provided in the table of contents. or the arrow keys bellow. 
+Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 
 
 [--> Introduction](introduction.md)

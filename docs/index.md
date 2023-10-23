@@ -1,0 +1,38 @@
+# My PDF Library
+
+Welcome to the official documentation for "My PDF Library". This library provides tools and utilities to manipulate and interact with PDF files in Python.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Getting Started](getting-started.md)
+4. [Core Functionality](core.md)
+5. [PDF I/O](io.md)
+6. [Text Handling](text.md)
+7. [Utilities](utils.md)
+8. [Encryption](encryption.md)
+9. [Testing](testing.md)
+10. [Changelog](changelog.md)
+11. [Contributing](#contributing)
+12. [License](#license)
+
+### Introduction
+
+This section provides a brief overview of what the library does, its features, and its objectives.
+
+### Installation
+
+Instructions on how to install the library.
+
+### Contributing
+
+For those interested in contributing to the development of this library, please see the `CONTRIBUTING.md` guide.
+
+### License
+
+This library is licensed under the Apache 2.0 License with Common Clause. See the `LICENSE` file for detailed information.
+
+---
+
+Navigate through the documentation using the links provided in the table of contents.

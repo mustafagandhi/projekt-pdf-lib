@@ -33,6 +33,10 @@ For those interested in contributing to the development of this library, please 
 
 This library is licensed under the Apache 2.0 License with Common Clause. See the `LICENSE` file for detailed information.
 
+### Support
+
+If you find any bugs, have suggestions, or need assistance, please open an issue on [GitHub](https://github.com/mustafagandhi/projekt-pdf-lib).
+
 ---
 
 Navigate through the documentation using the links provided in the table of contents.

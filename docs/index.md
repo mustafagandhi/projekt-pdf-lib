@@ -16,6 +16,8 @@ Welcome to the official documentation for "Projekt PDF Library". This library pr
 10. [Changelog](changelog.md)
 11. [Contributing](#contributing.md)
 12. [License](#license.md)
+13. [Security](https://github.com/mustafagandhi/projekt-pdf-lib/blob/main/SECURITY.md)
+14. [Code Of Conduct](https://github.com/mustafagandhi/projekt-pdf-lib/blob/main/CODE_OF_CONDUCT.md)
 
 ### Introduction
 

@@ -1,7 +1,5 @@
+# Changelog
 
-**10. changelog.md**:
-
-Changelog
 ### Projekt PDF Library - Version 0.1.0 Release Notes
 
 **Release Date**: 10/23/2023

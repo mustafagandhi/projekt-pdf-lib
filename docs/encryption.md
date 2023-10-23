@@ -1,5 +1,4 @@
-
-**6. encryption.md**:
+# Encryption
 
 Encryption
 Offering tools to encrypt and decrypt PDF documents.

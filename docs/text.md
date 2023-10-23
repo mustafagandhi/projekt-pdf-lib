@@ -1,5 +1,4 @@
-
-**5. text.md**:
+# Text Handling
 
 Text Handling
 Handle and manipulate text within PDF documents.

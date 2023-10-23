@@ -1,5 +1,4 @@
-
-**3. core.md**:
+# Core Functionality
 
 Core Functionality
 The core module handles foundational aspects of the library, such as PDF objects and the basic structure.

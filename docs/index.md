@@ -4,8 +4,8 @@ Welcome to the official documentation for "Projekt PDF Library". This library pr
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
+1. [Introduction](#introduction.md)
+2. [Installation](#installation.md)
 3. [Getting Started](getting-started.md)
 4. [Core Functionality](core.md)
 5. [PDF I/O](io.md)
@@ -14,8 +14,8 @@ Welcome to the official documentation for "Projekt PDF Library". This library pr
 8. [Encryption](encryption.md)
 9. [Testing](testing.md)
 10. [Changelog](changelog.md)
-11. [Contributing](#contributing)
-12. [License](#license)
+11. [Contributing](#contributing.md)
+12. [License](#license.md)
 
 ### Introduction
 

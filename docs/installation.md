@@ -33,3 +33,11 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 
+
+[Previous <--](introduction.md)
+
+[--> Next](getting-started.md)

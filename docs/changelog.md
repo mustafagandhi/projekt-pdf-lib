@@ -45,3 +45,9 @@ We welcome feedback and contributions from the community. Whether it's bug repor
 
 ---
 
+Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 
+
+[Previous <--](testing.md)
+
+[--> Next](contributing.md)
+

@@ -43,3 +43,11 @@ Highlight other key features or functionalities of the library that a beginner s
 After getting familiar with the basics, you can explore more advanced features by navigating through the documentation.
 
 Happy coding!
+
+---
+
+Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 
+
+[Previous <--](installation.md)
+
+[--> Next](core.md)

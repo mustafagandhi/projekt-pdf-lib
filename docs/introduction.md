@@ -8,4 +8,4 @@ Navigate through the documentation using the links provided in the table of cont
 
 [Previous <--](index.md)
 
-[--> Next](introduction.md)
+[--> Next](installation.md)

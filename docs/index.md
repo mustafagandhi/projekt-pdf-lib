@@ -19,26 +19,6 @@ Welcome to the official documentation for "Projekt PDF Library". This library pr
 13. [Security Policy](https://github.com/mustafagandhi/projekt-pdf-lib/blob/main/SECURITY.md)
 14. [Contact](mailto:148590629+mustafagandhi@users.noreply.github.com)
 
-### Introduction
-
-This section provides a brief overview of what the library does, its features, and its objectives.
-
-### Installation
-
-Instructions on how to install the library.
-
-### Contributing
-
-For those interested in contributing to the development of this library, please see the `CONTRIBUTING.md` guide.
-
-### License
-
-This library is licensed under the Apache 2.0 License with Common Clause. See the `LICENSE` file for detailed information.
-
-### Support
-
-If you find any bugs, have suggestions, or need assistance, please open an issue on [GitHub](https://github.com/mustafagandhi/projekt-pdf-lib).
-
 ---
 
 Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 

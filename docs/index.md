@@ -1,6 +1,6 @@
-# My PDF Library
+# Projekt PDF Library
 
-Welcome to the official documentation for "My PDF Library". This library provides tools and utilities to manipulate and interact with PDF files in Python.
+Welcome to the official documentation for "Projekt PDF Library". This library provides tools and utilities to manipulate and interact with PDF files in Python.
 
 ## Table of Contents
 

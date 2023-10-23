@@ -13,7 +13,7 @@ This project is dual-licensed:
 
 ```bash
 pip install projekt-pdf-lib
-
+```
 ## Usage
 
 Detailed usage can be found in our documentation.

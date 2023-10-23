@@ -6,4 +6,6 @@ Welcome to our custom PDF Library. This library is designed to provide comprehen
 
 Navigate through the documentation using the links provided in the table of contents or the navigation arrows below. 
 
-            [Previous <--](index.md)            [--> Next](introduction.md)
+[Previous <--](index.md)
+
+[--> Next](introduction.md)

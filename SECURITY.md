@@ -2,15 +2,15 @@
 
 ## Supported Versions
 
-Given that your library is at version 0.1.0, the table will reflect that this is the only version and it's currently supported.
+The library is at version 0.1.0, the table will reflect this version and it's currently not supported.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.x.x   | :white_check_mark: |
-| 1.x.x   | :x:                |
-| 0.x.x   | :x:                |
+| 2.x.x   | :white_check_mark: | #June 2024
+| 1.x.x   | :x:                | #December 2023
+| 0.x.x   | :x:                | #October 2023
 
-Note: As more versions of the library are released, this table should be updated to indicate which versions are actively receiving security updates.
+Note: As more versions of the library are released, this table will be updated to indicate which versions are actively receiving security updates.
 
 ## Reporting a Vulnerability
 

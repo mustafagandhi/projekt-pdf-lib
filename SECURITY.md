@@ -7,6 +7,7 @@ Given that your library is at version 0.1.0, the table will reflect that this is
 | Version | Supported          |
 | ------- | ------------------ |
 | 2.x.x   | :white_check_mark: |
+| 1.x.x   | :x:                |
 | 0.x.x   | :x:                |
 
 Note: As more versions of the library are released, this table should be updated to indicate which versions are actively receiving security updates.
